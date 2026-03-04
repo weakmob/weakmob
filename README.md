@@ -1,4 +1,4 @@
-# Hi, I'm Krijan Dongol 👋
+# Hi, I'm WeakMob 👋
 
 🇳🇵 From Nepal  
 🇯🇵 Currently studying in Japan  
