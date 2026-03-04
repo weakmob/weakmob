@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Krijan Dongol 👋
 
-<!--
-**weakmob/weakmob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇳🇵 From Nepal  
+🇯🇵 Currently studying in Japan  
 
-Here are some ideas to get you started:
+I am a **System Engineering student** studying to become a **software engineer**.  
+I enjoy building backend systems and learning how real software works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+
+**Languages**
+- Java
+- Python
+
+**Development**
+- MVC Web Applications
+- CRUD System Development
+- Database Integration
+- Backend Development
+
+**Tools**
+- Git & GitHub
+- SQL / Databases
+- IntelliJ / VS Code
+
+---
+
+## 📂 Projects
+
+### 🛒 Java MVC Shopping Cart
+- Built using **Java, Servlet, JSP**
+- Implemented **CRUD operations**
+- Integrated **database for product management**
+- Uses **MVC architecture**
+
+### 🎮 Java Glass Bridge Game
+- Java desktop game with **Swing graphics**
+- Implemented **falling mechanics**
+- Object-oriented design
+
+### 🤖 Robocode Battle Bot
+- AI robot designed for **1200x1200 Royal Rumble arena**
+- Focused on **dodging algorithms and enemy tracking**
+
+---
+
+## 📚 Currently Learning
+- Backend system design
+- Clean code and software architecture
+- Improving professional Japanese communication
+
+---
+
+## 🎯 Career Goal
+
+My goal is to work as a **software engineer in Japan**, building reliable systems and continuing to improve my programming and teamwork skills.
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/weakmob
